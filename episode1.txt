@@ -1,0 +1,27 @@
+React is a javascript library created by facebook
+constanly updated and maintain 
+dominating JS linraries 
+react creates a virtual DOM 
+
+ADVANTAGES 
+1. react is enjoyable 
+2. framework that abstract complexity 
+
+PREREQUISITE 
+HTML, CSS, JS BASICS 
+
+
+npx create-react-app . OR foldername
+
+FOLDER STRUCTURE 
+1. README   
+2..gitignore
+3.PACKAGE.JSON contains information about your project and all the dependancies for your project. mainly for documentation
+4. node_modules: contain all the packages and the dependancies that have been installed 
+5. public : contains static files like images or css file,
+5. package-lock.json : contains information about the version of each dependency
+6. public/index.html : entry point for our application (the first file to be loaded)  the index.html (react is a single page application) single page appliccations allow for one time loading of the required files 
+7. src/: source code directory
+8. index.js : entry point for our application
+9. App.css/App.js : main component in which we will be working on
+
