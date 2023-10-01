@@ -9,7 +9,7 @@ starts with a Captial letter (.js)
 Components are independent and reusable bits of code
 building blocks for react application 
 can be used in multiple places
-Components are one of the core concepts of React. They are the foundation upon which you build user interfaces (UI)
+Components are one of the core concepts of React. They are the foundation upon which you build user interfaces (UI
 
 
 3. Props 
