@@ -1,0 +1,21 @@
+OBJECTIVES 
+
+1. JSX 
+JSX is a syntax extension for JavaScript that lets you write HTML-like markup inside a JavaScript file. 
+JSX lets you write HTML-like markup inside a JavaScript file, keeping rendering logic and content in the same place. 
+
+2. Components 
+starts with a Captial letter (.js)
+Components are independent and reusable bits of code
+building blocks for react application 
+can be used in multiple places
+Components are one of the core concepts of React. They are the foundation upon which you build user interfaces (UI)
+
+
+3. Props 
+React components use props to communicate with each other. 
+Every parent component can pass some information to its child components by giving them props.
+Props might remind you of HTML attributes, but you can pass any JavaScript value through them, including objects arrays, and functions
+
+
+
