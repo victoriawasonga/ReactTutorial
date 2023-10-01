@@ -1,0 +1,17 @@
+1. how to use CSS
+creation of a .css file 
+ensure css name is camel case (className)
+    <ul style={{
+      backgroundColor: 'black',
+      color: 'pink'
+    }}>
+
+2. Conditional Rendering 
+Your components will often need to display different things depending on different conditions.
+In React, you can conditionally render JSX using JavaScript syntax like if statements, &&, and ? : operators.
+{condition ? true : false}
+{condition && true}
+{age>=18? you can vote : you are a minor }
+3. Lists 
+callback function 
+4. Objects 
