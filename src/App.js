@@ -6,6 +6,8 @@ import Lists from './Components/Lists';
 import Objects from './Components/Objects';
 import Planets from './Components/Planets';
 import Props from './Components/Props';
+import ShowHide from './Components/ShowHide';
+import UseState from './Components/UseState';
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
       <Lists/>
       <Objects/>
       <Planets/>
+      <UseState/>
+      <ShowHide/>
     </div>
   );
 }
