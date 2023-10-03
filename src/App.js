@@ -7,11 +7,17 @@ import Objects from './Components/Objects';
 import Planets from './Components/Planets';
 import Props from './Components/Props';
 import ShowHide from './Components/ShowHide';
+import Todo from './Components/Todo';
 import UseState from './Components/UseState';
 
 function App() {
   return (
     <div className="App">
+     <Todo/>
+     
+     
+     
+     
       <h1>Hello World</h1>
       <Comps/>
       <Props name="Victoria" email="v@gmail.com" age={32}/>
